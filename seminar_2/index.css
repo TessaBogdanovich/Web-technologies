@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(231, 152, 5);
+}
+a{
+    color:green
+}
+body{
+    background-color: rgb(26, 226, 226);
+}
+img{
+    width: 100px;
+}
+.bigdata{
+    font-size: 1.5rem;
+}
