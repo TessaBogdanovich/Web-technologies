@@ -1,3 +1,0 @@
-<p class="bigtext">Тут большой текст</p>
-
-https://github.com/XeniaSelkie/Workspace.git
